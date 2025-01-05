@@ -12,7 +12,7 @@
 #### Stationarity
 
 1. Stationarity revolves around the idea of consistency.
-2. ![[Pasted image 20250104193137.png]]
+2. ![[images/Pasted image 20250104193137.png]]
 3. ![[Pasted image 20250104193151.png]]
 4. Distribution depends only on the difference in time and not the location of the time.
 5. ![[Pasted image 20250104193533.png]]
