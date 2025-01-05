@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GARCH/notes/Volatility Modelling.md",
+                "file": "GARCH/notes/ACF & PACF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volatility Modelling"
+              "title": "ACF & PACF"
+            }
+          },
+          {
+            "id": "93309ca742fa9c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GARCH/notes/ARCH_and_GARCH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARCH_and_GARCH"
             }
           }
         ]
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GARCH/notes/Volatility Modelling.md",
+                "file": "GARCH/notes/ACF & PACF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Volatility Modelling"
+              "title": "Backlinks for ACF & PACF"
             }
           },
           {
@@ -112,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GARCH/notes/Volatility Modelling.md",
+                "file": "GARCH/notes/ACF & PACF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Volatility Modelling"
+              "title": "Outgoing links from ACF & PACF"
             }
           },
           {
@@ -139,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GARCH/notes/Volatility Modelling.md"
+                "file": "GARCH/notes/ACF & PACF.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Volatility Modelling"
+              "title": "Outline of ACF & PACF"
             }
           }
         ]
@@ -162,20 +176,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9597256027b7be7e",
+  "active": "0651b270a2292835",
   "lastOpenFiles": [
-    "GARCH/notes/ARCH_and_GARCH.md",
+    "GARCH/spreadsheets/67AC5710",
+    "GARCH/spreadsheets/A20C5710",
+    "GARCH/spreadsheets/40395710",
+    "GARCH/spreadsheets/96F85710",
+    "GARCH/spreadsheets/ECC85710",
+    "GARCH/spreadsheets/18085710",
     "GARCH/notes/Volatility Modelling.md",
-    "GARCH/notes/images/Pasted image 20250105175809.png",
-    "GARCH/notes/images",
-    "GARCH/notes/images/Pasted image 20250104193842.png",
-    "GARCH/notes/images/Pasted image 20250104193712.png",
-    "GARCH/notes/images/Pasted image 20250104193533.png",
-    "GARCH/notes/images/Pasted image 20250104193151.png",
-    "GARCH/notes/images/Pasted image 20250104193137.png",
-    "GARCH/notes/images/Pasted image 20250104193105.png",
-    "GARCH/notes/images/Pasted image 20250103213544.png",
-    "GARCH/notes/images/Pasted image 20250103213533.png",
-    "GARCH/notes/images/Pasted image 20250103212620.png"
+    "GARCH/spreadsheets/B3065710",
+    "GARCH/notes/ARCH_and_GARCH.md",
+    "GARCH/notes/Unit Roots, ARCH, GARCH.md",
+    "GARCH/notes/ACF & PACF.md",
+    "GARCH/spreadsheets/CEC03710",
+    "GARCH/images/Pasted image 20250106002008.png",
+    "GARCH/images/Pasted image 20250106001908.png",
+    "GARCH/images/Pasted image 20250105185205.png",
+    "Pasted image 20250106002008.png",
+    "Pasted image 20250106001908.png",
+    "GARCH/code/acf_pacf.ipynb",
+    "GARCH/spreadsheets/3FA3E610",
+    "GARCH/spreadsheets/5583E610",
+    "Pasted image 20250105185205.png",
+    "GARCH/images/Pasted image 20250105184339.png",
+    "GARCH/images/Pasted image 20250105184026.png",
+    "GARCH/images/Pasted image 20250105183615.png",
+    "GARCH/images/Pasted image 20250105182847.png"
   ]
 }

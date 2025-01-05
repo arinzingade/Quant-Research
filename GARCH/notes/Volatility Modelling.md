@@ -55,9 +55,9 @@ In **GARCH** modeling, we are often interested in modeling **volatility clusteri
 ---
 ### Flow of Tests Before GARCH Modeling
 
-1. [ ] **ADF Test**: Stationarity test.
+1. [x] **ADF Test**: Stationarity test.
 2. [ ] **Phillips-Perron/KPSS Test**: Additional unit root tests.
-3. [ ] **ACF/PACF Plots**: Check autocorrelation in data.
+3. [x] **ACF/PACF Plots**: Check autocorrelation in data.
 4. [ ] **ARCH LM Test**: Detect volatility clustering (heteroskedasticity).
 5. [ ] **Ljung-Box Test**: Residual autocorrelation from mean model.
 6. [ ] **Jarque-Bera Test**: Normality of residuals for GARCH innovations.
