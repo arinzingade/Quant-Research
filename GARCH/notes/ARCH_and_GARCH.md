@@ -7,17 +7,16 @@
 
 ### Why Model Volatility?
 
-![[Pasted image 20250103212224.png]]
+![[Pasted image 20250105175809.png]]
 
 Vol is much more predictable and also has a definitive pattern to it, making it easier to model.
-
 
 ## ARCH
 
 1. AutoRegressive
 2. It is a time series approach to modelling volatility that changes over time (conditional heteroskedasticity)
 3. It tries to account for time dependency and "clustering" of volatility.
-4. ![[Pasted image 20250103212516.png]]
+4. ![[Pasted image 20250103212620.png]]
 5. ![[Pasted image 20250103212620.png]]
 6. Estimating real world data typically means that we will have to large value of **q** 
 
