@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GARCH/notes/ACF & PACF.md",
+                "file": "GARCH/notes/Volatility Modelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACF & PACF"
+              "title": "Volatility Modelling"
             }
           },
           {
@@ -178,6 +178,8 @@
   },
   "active": "0651b270a2292835",
   "lastOpenFiles": [
+    "GARCH/notes/Unit Roots, ARCH, GARCH.md",
+    "GARCH/notes/ACF & PACF.md",
     "GARCH/spreadsheets/3A468710",
     "GARCH/spreadsheets/AB368710",
     "GARCH/spreadsheets/23B58710",
@@ -188,11 +190,8 @@
     "GARCH/spreadsheets/58F38710",
     "GARCH/spreadsheets/27E38710",
     "GARCH/spreadsheets/F0638710",
-    "GARCH/spreadsheets/F9438710",
     "GARCH/notes/Volatility Modelling.md",
     "GARCH/notes/ARCH_and_GARCH.md",
-    "GARCH/notes/Unit Roots, ARCH, GARCH.md",
-    "GARCH/notes/ACF & PACF.md",
     "GARCH/images/Pasted image 20250106002008.png",
     "GARCH/images/Pasted image 20250106001908.png",
     "GARCH/images/Pasted image 20250105185205.png",
