@@ -66,3 +66,24 @@ In **GARCH** modeling, we are often interested in modeling **volatility clusteri
 9. [ ] **GARCH Estimation and Convergence**: Fit the model and check convergence.
 10. [ ] **Post-GARCH Residual Analysis**: Validate residuals after GARCH.
 11. [ ] **Forecast Validation**: Test the model’s out-of-sample forecasting ability.
+
+
+
+- [ ] Difference between Top Vol and Bottom Vol 
+- [ ] 10->14 ,  30->35: Open to interpretation -> vol behaviour
+- [ ] Put in additional data points
+	- [ ] Scenarios in the market
+	- [ ] Reasons of Fear and Greed
+- [ ] S1 and S2 -> differences of respective GARCH's 
+- [ ] Tentative dates for PPT 
+
+
+
+### **Volatility Clustering**
+
+- Measure the clustering effect (GARCH modeling):
+    - Use a **GARCH(1,1)** model to quantify how past volatility influences future volatility during VIX transitions.
+    - Analyze the persistence parameter (β\betaβ):
+        - **VIX at 30 → 15:** Decreasing β\betaβ suggests fading volatility.
+        - **VIX at 10 → 20:** Increasing β\betaβ indicates growing market stress.
+

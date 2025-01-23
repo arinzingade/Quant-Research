@@ -13,29 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GARCH/notes/Volatility Modelling.md",
+                "file": "GARCH/notes/Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volatility Modelling"
+              "title": "Idea"
+            }
+          },
+          {
+            "id": "1b6778d3a8d1765e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250114145328.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250114145328"
             }
           },
           {
             "id": "93309ca742fa9c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GARCH/notes/ARCH_and_GARCH.md",
-                "mode": "source",
-                "source": false
+                "file": "GARCH/images/Pasted image 20250120232308.png"
               },
-              "icon": "lucide-file",
-              "title": "ARCH_and_GARCH"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250120232308"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,31 +187,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0651b270a2292835",
+  "active": "9597256027b7be7e",
   "lastOpenFiles": [
+    "HMM/spreadsheets/E0970120",
+    "strat_v3.md",
+    "GARCH/images/Pasted image 20250120232308.png",
+    "GARCH/notes/Markov Chains.md",
+    "GARCH/images/Pasted image 20250123212929.png",
+    "HMM/spreadsheets/CE29E020",
+    "HMM/spreadsheets/9638E020",
+    "HMM/spreadsheets/F9E6E020",
+    "HMM/spreadsheets/0596E020",
+    "HMM/spreadsheets/6EC5E020",
+    "HMM/spreadsheets/2205E020",
+    "HMM/spreadsheets/2844E020",
+    "HMM/spreadsheets/A7F1E020",
+    "HMM/spreadsheets/69D1E020",
+    "HMM/spreadsheets/0AE0E020",
+    "GARCH/images/Pasted image 20250123205418.png",
+    "GARCH/notes/Articles.md",
+    "GARCH/images/Pasted image 20250120233516.png",
+    "GARCH/notes/How HMM finds the Market Regime.md",
+    "GARCH/notes/Strategies Ideas.md",
+    "GARCH/notes/Volatility Modelling.md",
     "GARCH/notes/Unit Roots, ARCH, GARCH.md",
     "GARCH/notes/ACF & PACF.md",
-    "GARCH/spreadsheets/3A468710",
-    "GARCH/spreadsheets/AB368710",
-    "GARCH/spreadsheets/23B58710",
-    "GARCH/spreadsheets/F8A58710",
-    "GARCH/spreadsheets/CCE48710",
-    "GARCH/spreadsheets/BAC48710",
-    "GARCH/spreadsheets/4E848710",
-    "GARCH/spreadsheets/58F38710",
-    "GARCH/spreadsheets/27E38710",
-    "GARCH/spreadsheets/F0638710",
-    "GARCH/notes/Volatility Modelling.md",
     "GARCH/notes/ARCH_and_GARCH.md",
+    "GARCH/notes/Hidden Markov Models.md",
+    "GARCH/notes/Idea.md",
+    "GARCH/images/Pasted image 20250110100959.png",
+    "GARCH/images/Pasted image 20250114145328.png",
     "GARCH/images/Pasted image 20250106002008.png",
     "GARCH/images/Pasted image 20250106001908.png",
     "GARCH/images/Pasted image 20250105185205.png",
-    "Pasted image 20250106002008.png",
-    "Pasted image 20250106001908.png",
-    "Pasted image 20250105185205.png",
-    "GARCH/images/Pasted image 20250105184339.png",
-    "GARCH/images/Pasted image 20250105184026.png",
-    "GARCH/images/Pasted image 20250105183615.png",
-    "GARCH/images/Pasted image 20250105182847.png"
+    "Pasted image 20250106002008.png"
   ]
 }
