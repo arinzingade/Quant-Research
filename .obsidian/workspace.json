@@ -51,18 +51,28 @@
             "id": "1c96bca168ed5149",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GARCH/notes/How HMM finds the Market Regime.md",
-                "mode": "source",
-                "source": false
+                "file": "GARCH/images/Pasted image 20250104201150.png"
               },
-              "icon": "lucide-file",
-              "title": "How HMM finds the Market Regime"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250104201150"
+            }
+          },
+          {
+            "id": "c825bb1bd532b889",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,8 +214,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c96bca168ed5149",
+  "active": "c825bb1bd532b889",
   "lastOpenFiles": [
+    "GARCH/images/Pasted image 20250105175809.png",
+    "GARCH/images/Pasted image 20250105182847.png",
+    "GARCH/images/Pasted image 20250105183615.png",
+    "GARCH/images/Pasted image 20250105184026.png",
+    "GARCH/images/Pasted image 20250105184339.png",
+    "GARCH/images/Pasted image 20250105185205.png",
+    "GARCH/images/Pasted image 20250106001908.png",
+    "GARCH/images/Pasted image 20250110100959.png",
+    "GARCH/images/Pasted image 20250114145328.png",
+    "GARCH/images/Pasted image 20250120232308.png",
+    "GARCH/images/Pasted image 20250120233516.png",
+    "GARCH/notes/Unit Roots, ARCH, GARCH.md",
+    "GARCH/notes/Volatility Modelling.md",
+    "GARCH/notes/How HMM finds the Market Regime.md",
     "GARCH/spreadsheets/16B4C100",
     "HMM/spreadsheets/8A84C100",
     "GARCH/spreadsheets/FD74C100",
@@ -216,29 +240,15 @@
     "GARCH/notes/Hidden Markov Models.md",
     "GARCH/notes/Markov Chains.md",
     "GARCH/notes/Idea.md",
-    "GARCH/notes/How HMM finds the Market Regime.md",
     "GARCH/notes/GARCH Assumptions.md",
     "Strat Ideas.md",
-    "GARCH/notes/Volatility Modelling.md",
     "GARCH/notes/Strategies Ideas.md",
-    "GARCH/notes/Unit Roots, ARCH, GARCH.md",
     "GARCH/notes/Articles.md",
     "GARCH/notes/ARCH_and_GARCH.md",
     "GARCH/notes/ACF & PACF.md",
     "GARCH/code/garch-analysis.ipynb",
-    "GARCH/images/Pasted image 20250120232308.png",
     "HMM/spreadsheets/E0970120",
     "strat_v3.md",
-    "GARCH/images/Pasted image 20250123212929.png",
-    "HMM/spreadsheets/CE29E020",
-    "HMM/spreadsheets/9638E020",
-    "GARCH/images/Pasted image 20250123205418.png",
-    "GARCH/images/Pasted image 20250120233516.png",
-    "GARCH/images/Pasted image 20250110100959.png",
-    "GARCH/images/Pasted image 20250114145328.png",
-    "GARCH/images/Pasted image 20250106002008.png",
-    "GARCH/images/Pasted image 20250106001908.png",
-    "GARCH/images/Pasted image 20250105185205.png",
-    "Pasted image 20250106002008.png"
+    "HMM/spreadsheets/CE29E020"
   ]
 }
